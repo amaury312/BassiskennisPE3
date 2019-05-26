@@ -9,3 +9,5 @@ XX0X110
 1X0X110
 110X110
 1100110
+
+Het derde bit is verkeerd, de juiste bits zijn 1100110
